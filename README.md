@@ -1,5 +1,5 @@
-zero to hello world scala app
-=============================
+Multiple modules in scala app for Beginners
+===========================================
 
 Introduction
 
