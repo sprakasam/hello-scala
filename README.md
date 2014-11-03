@@ -1,5 +1,5 @@
-Multiple modules in scala app for Beginners
-===========================================
+Multiple scala modules using Sbt
+================================
 
 Introduction
 
